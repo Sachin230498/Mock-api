@@ -22,7 +22,73 @@
     
       "wishlist-cars": [
           
-          ]
+          ],
+	
+  "dogs": [
+    {
+      "id": 1,
+      "name": "Cherry",
+      "age": 2,
+      "place": "Visakhapatnam",
+      "gender": "Male"
+    },
+    {
+      "id": 1,
+      "name": "Tommy",
+      "age": 3,
+      "place": "Banglore",
+      "gender": "Female"
+    },
+	     {
+      "name": "Lucy",
+      "age": 4,
+      "place": "Lakhnew",
+      "gender": "Female"
+    },
+	       {
+      "name": "Merry",
+      "age": 5,
+      "place": "Indore",
+      "gender": "male"
+    },
+	       {
+      "name": "Maria",
+      "age":  6,
+      "place": "Chhindwara",
+      "gender": "Female"
+    },
+	       {
+      "name": "Rosy",
+      "age": 7,
+      "place": "Pune",
+      "gender": "Female"
+    },
+	       {
+      "name": "Rockey",
+      "age": 8,
+      "place": "Mumbai",
+      "gender": "male"
+    },
+	       {
+      "name": "Lalit",
+      "age": 9,
+      "place": "Banglore",
+      "gender": "male"
+    },
+	       {
+      "name": "Vishu",
+      "age": 10,
+      "place": "Utrakhand",
+      "gender": "male"
+    },
+	       {
+      "name": "Rocksy",
+      "age": 12,
+      "place": "Banglore",
+      "gender": "male"
+    },
+  ]
+
 
     
   }
